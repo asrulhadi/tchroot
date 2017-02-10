@@ -1,0 +1,3 @@
+[submodule "source/mosquito"]
+	path = source/mosquito
+	url = https://github.com/mosquito/xchroot.git
